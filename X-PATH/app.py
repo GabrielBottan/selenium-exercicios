@@ -22,3 +22,4 @@
 
 #Se quiser ser especifico não utilize **, use o valor da tag que está procurando
 
+# se você tiver uma lista de coisas, pode acessar pelo XPATH, e acesar a propriedade pelo indice
